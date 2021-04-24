@@ -11,5 +11,54 @@
       "title": "Redux Tutorial",
       "body": "Recusandae consequuntur expedita et cum\nreprehenderit ut quas totam\nautem sunt rem eveniet architecto"
     }
+  ],
+  "html_questions" : [
+   
+      {
+       " questionText":" What does HTML stand for?",
+        "answerOptions": [
+          {" answerText": "Hyper Text Markup Language", "isCorrect": true },
+          { "answerText":" Home Tool Markup Language", "isCorrect": false },
+          { "answerText": "Hyperlinks and Text Markup", "isCorrect": false },
+          { "answerText": "Hyper Text Machine Language", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "Who is making the Web standards?",
+        "answerOptions": [
+          { "answerText": "Microsoft", "isCorrect": false },
+          { "answerText": "Mozilla", "isCorrect": false },
+          { "answerText": "Google", "isCorrect": false },
+          { "answerText": "The world wide web consortium", "isCorrect": true }
+        ]
+      },
+      {
+        "questionText": "Choose the correct HTML element for the largest heading:",
+        "answerOptions": [
+          { "answerText": "<heading>", "isCorrect": false },
+          {" answerText": "<h6>", "isCorrect": false },
+          { "answerText": "<head>", "isCorrect": false },
+          { "answerText": "<h1>", "isCorrect": true }
+        ]
+      },
+      {
+        "questionText": "What is the correct HTML element for inserting a line break?",
+        "answerOptions": [
+          { "answerText": "<break>", "isCorrect": false },
+          { "answerText":" <br>", "isCorrect": true },
+          { "answerText":" <lb>"," isCorrect": false },
+          { "answerText": "<bl>", "isCorrect": false }
+        ]
+      },
+          {
+       "questionText": "What is the correct HTML for adding a background color?",
+        "answerOptions": [
+          {"answerText": "<body style = background-color : yellow", "isCorrect": true },
+          { "answerText": "<body bg = yellow>{", "isCorrect": false },
+          { "answerText":" <background>yellow</background>", "isCorrect": false }
+          
+        ]
+      }
+    
   ]
 }
