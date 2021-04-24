@@ -1,0 +1,14 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "React Tutorial",
+      "body": "Quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+    },
+    {
+      "id": 2,
+      "title": "Redux Tutorial",
+      "body": "Recusandae consequuntur expedita et cum\nreprehenderit ut quas totam\nautem sunt rem eveniet architecto"
+    }
+  ]
+}
